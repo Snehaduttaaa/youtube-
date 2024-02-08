@@ -1,0 +1,44 @@
+
+
+  .button1
+   {
+    background-color: rgb(195, 7, 7);
+  color: aliceblue;
+  border: none;
+  border-radius: 60px;
+  cursor: pointer;
+  margin-right:9px;
+  transition: opacity 1s;
+    padding-left: 60px;
+   padding-right: 60px;
+   padding-top: 40PX;
+   padding-bottom: 40PX;
+   box-shadow:10px 9px 5px rgb(54, 43, 43);
+   transition: background-color 1s
+   color 10s;
+   vertical-align: top;
+   font-weight: bold;
+   font-size: 15px;
+  
+}
+.button1:hover {
+  background-color: black;
+  color: rgb(244, 60, 192);
+  
+}
+.button1:active {
+opacity: 0.2;
+}
+
+  .button2
+  {
+    background-color: rgb(253, 250, 246);
+border-color: rgb(121, 100, 224);
+border-style: solid;
+height: 36px;
+width: 69px;
+border-radius: 3px;
+cursor: pointer;
+color:rgb(121, 100, 224)
+
+  }
